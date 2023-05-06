@@ -30,11 +30,7 @@ public:
 	int get_a();
 	void set_a(int a1);
 	int get_b();
-	void set_b(int b1);
-
-	int perimeter();
-	int square();
-	double diagonal();
+	void set_b(int b1);	
 
 	string convert();
 };
